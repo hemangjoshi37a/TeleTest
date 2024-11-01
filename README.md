@@ -2,6 +2,24 @@
 Testing telegram Trade Tip messages with machine learning
 
 
+Ready to elevate your trading strategy? 
+
+<a href="https://hjalgos.hjlabs.in" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563EB;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+">
+    Try Our AlgoTrading Platform
+</a>
+
+
 ## 📫 How to reach me
 [<img height="36" src="https://cdn.simpleicons.org/similarweb"/>](https://hjlabs.in/) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
